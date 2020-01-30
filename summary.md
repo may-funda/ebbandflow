@@ -21,3 +21,6 @@ He says, “Beneath questions like 'How do I make my pages look the same on ever
 'How do I control the user’s browser?' ...The belief that designers are controllers.” 
 But the idea of designers being controllers is linked to old print mediums, when designers had complete control over their work 
 and how it was viewed. The web is not the same as print, so Allsop thinks it shouldn’t be treated that way. 
+
+About me:
+May Funda is a graphic designer at Montserrat College of Art, who likes to read fantasy books and draw original characters. They also play guitar and ukelele, and watch anime.
