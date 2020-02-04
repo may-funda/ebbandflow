@@ -16,7 +16,7 @@ One of the ways John says the web is different from paper printing is that the e
 
 
 
-[Read the full article, A Dao of Web Design by John Allsop here](https://alistapart.com/article/dao/)
+[Read the full article A Dao of Web Design by John Allsop](https://alistapart.com/article/dao/)
 
 # About the Author 
 
