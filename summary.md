@@ -15,7 +15,9 @@ to “embrace the web as its own medium”.
 One of the ways John says the web is different from paper printing is that the element of control is different. He says, “Beneath questions like 'How do I make my pages look the same on every platform?' ...is an underlying question: 'How do I control the user’s browser?' ...The belief that designers are controllers.” But the idea of designers being controllers is linked to old print mediums, when designers had complete control over their work and how it was viewed. The web is not the same as print, so Allsop thinks it shouldn’t be treated that way.
 
 
-About the Author 
+
+
+# About the Author 
 
 May studies graphic design at Montserrat College of Art, and likes drawing fanart and original art, reading fantasy books, playing guitar and being with animals. May has lived in Massachussetts for most of their life but doesn't have a Boston accent. May's favorite season is fall, because it's connected to the element of air.
 
