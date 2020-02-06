@@ -1,6 +1,6 @@
 # A Dao of Web Design Summary
 
-![alt text](https://github.com/may-funda/ebbandflow/blob/master/img/wa1ebbnflowpic.png?raw=true)
+![alt text](https://github.com/may-funda/ebbandflow/blob/master/img/wa1ebbnflowpic1.png?raw=true)
 
 John Allsopp uses themes of Daoism to explain the principles of web design. He says that the web uses old methods from printed writing to communicate newer ideas, but the tradition of using old methods is holding it back. He says that when new mediums borrow from ones that already exist, some of the borrowed material doesn’t translate well into the new context and keeps it from reaching its full potential. 
 
