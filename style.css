@@ -65,7 +65,7 @@ img.selfie {
     }
        
     img.selfie {
-    width: 50%; 
+    max-width: 30%; 
     float: none;
     
     }
