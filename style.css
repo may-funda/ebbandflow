@@ -64,7 +64,9 @@ img.selfie {
     
     }
     
-    h3 {
+    h3 
+    
+    a {
     max-width: 100%;
     }
     
