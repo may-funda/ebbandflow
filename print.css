@@ -14,7 +14,8 @@ h1 {
 .heroimage { 
     margin: 0 auto;
     display: block;
-    max-width: 90%;   
+    max-width: 90%;  
+    display: none;
     }
     
 body {
@@ -49,5 +50,6 @@ img.selfie {
     float: left;
     padding-right: 1em;
     margin-bottom: 40px;
+    display: none;
     }
         
