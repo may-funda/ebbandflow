@@ -53,6 +53,10 @@ img.selfie {
    .heroimage { 
     max-width: 100%;
     }
+    
+    body {
+    max-width: 100%;       
+    }
        
     img.selfie {
     width: 50%; 
