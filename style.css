@@ -67,14 +67,10 @@ img.selfie {
     img.selfie {
     max-width: 200px; 
     float: none;
-    
+    width: auto;
     }
     
-    h3 
-    
-    a {
-    max-width: 100%;
-    }
+  
     
     
     
