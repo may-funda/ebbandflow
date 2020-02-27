@@ -1,0 +1,14 @@
+    .heroimage { 
+    max-width: 100%;
+    }
+    
+    body {
+    max-width: 100%;       
+    }
+       
+    img.selfie {
+    max-width: 200px; 
+    float: none;
+    width: auto;
+    }
+
