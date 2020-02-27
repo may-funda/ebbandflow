@@ -1,15 +1,4 @@
    
-    
-    body {
-    max-width: 100%;       
-    }
-       
-    img.selfie {
-    max-width: 200px; 
-    float: none;
-    width: auto;
-    }
-
 .title  {
    margin-top: 40px;
    font-size: 2.5em;
@@ -22,20 +11,17 @@ h1 {
    max-width: 100%; 
     }    
     
-
-
 .heroimage { 
     margin: 0 auto;
     display: block;
-    max-width: 90%;
-    
+    max-width: 90%;   
     }
     
 body {
     background: oldlace;
     font-family: sans-serif;
     margin: 0 auto;
-    max-width: 900px;
+    max-width: 100%;
     line-height: 1.4;
     padding-left: 10px;
     padding-right: 10px;
@@ -48,8 +34,7 @@ blockquote {
 .link {
    text-align: left; 
    font-size: 1em;
-   margin-bottom: 40px;
-     
+   margin-bottom: 40px;  
     }
     
 .abouttheauthor {
@@ -58,7 +43,7 @@ blockquote {
     margin-top: 40px;
     font-size: 1.5em;
     }
-    
+         
 img.selfie {
     width: 13%; 
     float: left;
