@@ -49,5 +49,19 @@ img.selfie {
     margin-bottom: 40px;
     }
         
+@media screen and (max-width: 600px) {
+   .heroimage { 
+    max-width: 100%;
+    }
+       
+    img.selfie {
+    width: 50%; 
+    float: none;
+    
+    }
+    
+    
+    
+}
 
 
