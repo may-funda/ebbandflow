@@ -16,9 +16,8 @@ h1 {
 .heroimage { 
     margin: 0 auto;
     display: block;
-    max-width: 100%;
-    padding-left: 10px;
-    padding-right: 10px;
+    max-width: 90%;
+    
     }
     
 body {
